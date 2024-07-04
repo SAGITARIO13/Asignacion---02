@@ -1,0 +1,7 @@
+
+El gráfico de dispersión muestra la relación entre la edad (eje x) y el tiempo (eje y) hasta el evento de muerte (DEATH_EVENT). Los puntos están coloreados según si el evento de muerte ocurrió (DEATH_EVENT=1) o no (DEATH_EVENT=0).
+
+Los puntos en el gráfico están dispersos, indicando la variabilidad en el tiempo hasta el evento de muerte entre diferentes edades.
+No se observa una tendencia clara de que la edad tenga una fuerte correlación con el tiempo hasta el evento de muerte, lo que sugiere que otros factores también juegan un papel significativo en la mortalidad por insuficiencia cardíaca.
+Sin embargo, se puede notar que hay una mayor concentración de eventos de muerte (puntos de color diferente) en ciertas áreas del gráfico, lo que podría indicar grupos específicos de edad con mayor riesgo.
+La dispersión sugiere la necesidad de un análisis más profundo y posiblemente el uso de más características para mejorar la precisión de los modelos predictivos.
